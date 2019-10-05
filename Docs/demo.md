@@ -13,10 +13,11 @@ Bla bla bla
 ## Subtitulo 3
 
 [] Lista de chequeo 1
+
 [] Lista de chequeo 2
 
 ## Subtitulo 4
 
 Ecuación:
 
-$$ x^2 $$
+![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D) 
