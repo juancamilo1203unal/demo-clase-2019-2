@@ -12,12 +12,19 @@ Bla bla bla
 
 ## Subtitulo 3
 
-[] Lista de chequeo 1
+_ [X] Lista de chequeo 1
 
-[] Lista de chequeo 2
+_ [ ] Lista de chequeo 2
 
 ## Subtitulo 4
 
 Ecuación:
 
 ![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D) 
+
+$
+f(x) = mx + b
+$
+
+
+HYPERLINK(Google, www.google.com)
